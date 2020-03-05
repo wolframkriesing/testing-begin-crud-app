@@ -1,8 +1,10 @@
 @app
-begin-app
+dimsum-2sw
+
+@static
 
 @http
-get  /todos
+get /todos
 post /todos
 post /todos/delete
 
